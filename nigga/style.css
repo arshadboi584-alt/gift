@@ -1,0 +1,195 @@
+.paper{padding: 100px 100px;}
+body {
+
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  background-image: url(images/heart.jpeg);
+  background-size: cover;
+  background-position: center center;    
+    
+    
+
+    
+
+}
+.paper { 
+    border: 5px solid black;
+    position:absolute;
+background-size: cover;
+background-position: center center;
+padding: 100px 100px;
+}
+
+
+
+
+  
+.paper.a { 
+  background-image: url(images/gif9.jpeg);
+  background-size: cover;
+  background-position: center center;
+}
+
+.paper.b { 
+  background-image: url(images/pic7.jpeg);
+  background-size: cover;
+  background-position: center center;
+  rotate: -90deg;
+}
+
+.paper.c { 
+  background-image: url(images/pic6.jpeg);
+  background-size: cover;
+  background-position: center center;
+  rotate: 90deg;
+}
+
+.paper.d { 
+  background-image: url(images/pic1.jpeg);
+  background-size: cover;
+  background-position: center center;
+  rotate: -90deg;
+}
+
+.paper.e { 
+  background-image: url(images/pic5.jpeg);
+  background-size: cover;
+  background-position: center center;
+  rotate: 90deg;
+
+
+}
+.paper.f { 
+  background-image: url(images/letter5.jpeg);
+  background-size: cover;
+  background-position: center center;
+
+
+}.paper.g { 
+  background-image: url(images/pic1.jpeg);
+  background-size: cover;
+  background-position: center center;
+  padding: 150px 100px;
+  rotate: -90deg;
+}
+
+
+.paper.h { 
+  background-image: url(images/gif8.jpeg);
+  background-size: cover;
+  background-position: center center;
+}
+
+.paper.i { 
+  background-image: url(images/gif7.jpeg);
+  background-size: cover;
+padding: 150px 100px;
+
+
+}
+
+.paper.j { 
+  background-image: url(images/gif6.jpeg);
+  background-size: cover;
+  padding: 100px 200px;
+}
+
+.paper.k { 
+  background-image: url(images/gif5.jpeg);
+  background-size: cover;
+  background-position: center center;
+}
+
+.paper.l { 
+  background-image: url(images/gif3.jpeg);
+  background-size: cover;
+  background-position: center center;
+}
+
+.paper.m { 
+  background-image: url(images/letter2.jpeg);
+  background-size: cover;
+  background-position: center center;
+  padding: 150px 100px;
+}
+
+.paper.n { 
+  background-image: url(images/pic3.jpeg);
+  background-size: cover;
+  background-position: center center;
+  padding: 120px 100px;
+rotate: -90deg;
+}
+
+.paper.o { 
+  background-image: url(images/letter1.jpeg);
+  background-size: cover;
+  background-position: center center;
+  padding: 300px 200px;
+}
+
+
+.paper.p { 
+  background-image: url(images/gif2.jpeg);
+  background-size: cover;
+  background-position: center center;
+}
+
+.paper.q { 
+  background-image: url(images/gif12.jpeg);
+  background-size: cover;
+  background-position: center center;
+}
+
+.paper.r { 
+  background-image: url(images/pic2.jpeg);
+  background-size: cover;
+  background-position: center center;
+  padding: 150px 100px;
+  rotate: -90deg;
+}
+
+.paper.s { 
+  background-image: url(images/gif11.jpeg);
+  background-size: cover;
+  background-position: center center;
+  padding: 100px 200px; 
+}
+
+
+.paper.t { 
+  background-image: url(images/gif1.jpeg);
+  background-size: cover;
+  background-position: center center;
+}
+
+.paper.u { 
+  background-image: url(images/pic4.jpeg);
+  background-size: cover;
+  background-position: center center;
+  padding: 150px 100px;
+  rotate: -90deg;
+}
+
+.paper.v { 
+  background-image: url(images/letter4.jpeg);
+  background-size: cover;
+  background-position: center center;
+}
+
+.paper.w { 
+  background-image: url(images/gif\ 10.jpeg);
+  background-size: cover;
+  background-position: center center;
+}
+
+.paper.x { 
+  background-image: url(images/gif4.jpeg);
+  background-size: cover;
+  background-position: center center; 
+  padding: 200px;;
+
+}
+
